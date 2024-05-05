@@ -1,3 +1,3 @@
 # kotlin-baseball-precourse
 
-- class 생성
+- class 와 main 함수 생성
