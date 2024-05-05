@@ -1,3 +1,3 @@
 # kotlin-baseball-precourse
 
-## class 생성
+- class 생성
